@@ -9,3 +9,43 @@
 html{
 	font-size: 62.5%
 }
+
+
+.navbar{
+	background: red;
+	min-height: 10vh;
+	font-size: 3rem;
+	display: flex;
+	flex-wrap: wrap;
+	width: 90%;
+	margin:auto;
+	justify-content: space-around;
+	align-items: center;
+	border-radius: 25px;
+	margin-top: 2rem;
+}
+
+.navbar a{
+	width: 1rem;
+	text-decoration: none;
+	color: black;
+	text-align: center;
+	padding: 0rem 8rem;
+}
+.navbar ul{
+	padding: 1rem;
+	margin: 1rem;
+}
+.navbar li{
+	display: inline-block;
+	list-style: none;
+}
+.navbar img{
+	position: fixed;
+	top:.25%;
+	left: 46%;
+	background: white;
+	height: 120px;
+	border-radius: 50%;
+	padding: 0rem;
+}
