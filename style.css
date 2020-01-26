@@ -42,7 +42,7 @@ html{
 	list-style: none;
 }
 .navbar img{
-	position: fixed;
+	position: absolute;
 	top:.25%;
 	left: 46%;
 	background: white;
