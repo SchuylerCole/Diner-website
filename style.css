@@ -78,6 +78,10 @@ background-position:0 0, 0 25px;
   max-width: 1500px;
   position: relative;
   margin: 2.5rem;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+
 }
 
 .slideshow-container img{
@@ -167,4 +171,21 @@ background-position:0 0, 0 25px;
 @keyframes fade {
   from {opacity: .4}
   to {opacity: 1}
+}
+
+/*about section*/
+
+p{
+	font-size: 5.2rem;
+	color: black;
+	text-align: center;
+	padding: 2rem;
+}
+
+.about{
+	display: flex;
+	align-items: center;
+	width: 90%;
+	margin: auto;
+	background: darkgrey;
 }
