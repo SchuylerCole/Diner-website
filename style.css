@@ -17,7 +17,7 @@ html{
 	font-size: 3rem;
 	display: flex;
 	flex-wrap: wrap;
-	width: 90%;
+	width: 95%;
 	margin:auto;
 	justify-content: space-around;
 	align-items: center;
@@ -260,10 +260,15 @@ p{
 }
 
 .menu-tiles h1{
+	background: red;
+	width: 100%;
+	margin:auto;
+	border-radius: 25px;
 	font-size: 6.8rem;
-	color: crimson;
+	color: black;
 	display: inline-block;
 	vertical-align: top;
-	width: 100%;
-	padding-bottom: 20px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	padding-left: 4rem;
 }
