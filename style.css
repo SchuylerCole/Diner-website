@@ -185,10 +185,18 @@ p{
 .about{
 	display: flex;
 	align-items: center;
+	background: red;
+	border-radius: 25px;
 	width: 90%;
 	margin: auto;
-	background: darkgrey;
 }
+
+.about img{
+	border-top-right-radius: 25px;
+	border-bottom-right-radius: 25px;
+}
+
+
 
 /*menu tiles section*/
 
