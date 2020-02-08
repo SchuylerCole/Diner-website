@@ -363,3 +363,19 @@ p{
 .form input, textarea{
 	margin-left: 2rem;
 }
+
+footer{
+	display: flex;
+	border-radius: 25px;
+	background: red;
+	width: 90%;
+	margin: auto;
+	height: 10vh;
+	align-items: center;
+	margin-top: 10px;
+}
+
+footer img{
+	height: 25px;
+	width: 25px;
+}
