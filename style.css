@@ -353,3 +353,7 @@ p{
 		width: 25px;
 		height: 25px;
 	}
+
+.form p{
+	text-align: left;
+}
